@@ -1,4 +1,4 @@
-# Real Estate Collection Dashboard — Power BI
+# Collection Analysis Dashboard — Power BI
 
 **Route Academy Data Analysis Diploma · Graduation Project**
 
